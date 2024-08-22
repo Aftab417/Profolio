@@ -1,0 +1,19 @@
+.mw {
+    min-width: 250px;
+}
+
+@media(max-width : 600px){
+    .btn1 , .btn2 {
+        padding: unset;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        width: 100%;
+    }
+    .btn{
+        width: 100%;
+    }
+
+    
+
+
+}
